@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Meghana Nagaraja</h1>
-<h3 align="center">AI Developer | SAP ABAP Specialist | MLOps Enthusiast</h3>
+<h3 align="center">Software Engineer | SAP ABAP Specialist | MLOps Enthusiast</h3>
 
 <p align="center">
   <img height="150" src="https://media0.giphy.com/media/147a7QKzPPbHBC/giphy.gif" />
