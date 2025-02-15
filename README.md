@@ -1,52 +1,53 @@
-<h2 align="left">Welcome to GitHub Portfolio of Meghana Nagaraja</h2>
+<h1 align="center">👋 Hi, I'm Meghana Nagaraja</h1>
+<h3 align="center">AI Developer | SAP ABAP Specialist | MLOps Enthusiast</h3>
 
-###
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBzd2xwYzZzbTY3NW52ZnFobTNsdTY5YnFic2x4eXdjOWZlbTI3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/147a7QKzPPbHBC/giphy.gif"  />
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="meghana.nagaraja01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<p align="center">
+  <a href="https://meghananagaraja.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/meghana-nagaraja-01ai/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
+  <a href="mailto:meghana.nagaraja01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-###
+---
+
+### 🛠️ Technical Arsenal
+
+**AI/ML Development**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
+
+**Cloud & MLOps**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+
+**SAP Ecosystem**  
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white)
+![S4HANA](https://img.shields.io/badge/S%2F4HANA-0FAAFF?logo=sap&logoColor=white)
+![Fiori](https://img.shields.io/badge/Fiori-0FAAFF?logo=sap&logoColor=white)
+
+### Key Projects
+
+# 🌌 Nebula AI - Autonomous Space Mission Control
+**Overview:** AI-powered system optimizing satellite operations with real-time telemetry, anomaly detection, and resource allocation.
+🌍 **Live Demo:** [Nebula AI](https://nebulaspace.netlify.app/)  
+
+
+### 🏥 AIxOncoCare - AI for Cancer Care
+**Overview:** AI-driven oncology platform integrating radiomics, genomics, and conversational AI to enhance cancer treatment.
+🌍 **Live Demo:** [AIxOncoCare](https://aixcancerbiohackathon.netlify.app/)  
+
+<img align="center" height="150" src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBzd2xwYzZzbTY3NW52ZnFobTNsdTY5YnFic2x4eXdjOWZlbTI3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/147a7QKzPPbHBC/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGU4MWRndTB4NGRlZzdxajByczB6anBkajUwZ2ppaDJhenZpZ3piaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WILqPq29TyIkVCSej/giphy.gif)"  />
+**Always on the track of Upgrading my skills**
+
+
