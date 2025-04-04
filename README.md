@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | SAP ABAP & AI Specialist |</h3>
 
 <p align="center">
-  <img height="150" src="https://media0.giphy.com/media/147a7QKzPPbHBC/giphy.gif" />
+  <img height="70" src="https://media0.giphy.com/media/147a7QKzPPbHBC/giphy.gif" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 🌍 **Live Demo:** [Nebula AI](https://nebulaspace.netlify.app/)  
 
 <p align="center">
-  <img height="150" src="https://media3.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" />
+  <img height="50" src="https://media3.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" />
 </p>
 
 <h3 align="center">💡 Always on the track of upgrading my skills!</h3>
