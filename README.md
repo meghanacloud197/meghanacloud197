@@ -1,9 +1,16 @@
 <h1 align="center">👋 Hi, I'm Meghana Nagaraja</h1>
-<h3 align="center">Software Engineer | SAP ABAP Specialist | MLOps Enthusiast</h3>
+<h3 align="center">Software Engineer | SAP ABAP & AI Specialist |</h3>
 
 <p align="center">
   <img height="150" src="https://media0.giphy.com/media/147a7QKzPPbHBC/giphy.gif" />
 </p>
+
+---
+
+## About Me  
+✨ My passion lies towards bridging the gap and creating innovation between SAP and AI. I specialize in SAP ABAP development, machine learning, and MLOps, striving to build intelligent systems that revolutionize business operations. I'm always excited to push the boundaries of technology, combining the power of SAP with cutting-edge AI solutions to deliver scalable and impactful solutions.
+
+---
 
 <p align="center">
   <a href="https://meghananagaraja.netlify.app/" target="_blank">
@@ -36,23 +43,23 @@
 ### **SAP Ecosystem**  
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white)
 ![S4HANA](https://img.shields.io/badge/S%2F4HANA-0FAAFF?logo=sap&logoColor=white)
+![S4HANA Cloud](https://img.shields.io/badge/S%2F4HANA%20Cloud-0FAAFF?logo=sap&logoColor=white)
 ![Fiori](https://img.shields.io/badge/Fiori-0FAAFF?logo=sap&logoColor=white)
+![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0FAAFF?logo=sap&logoColor=white)
+![SAP Data Intelligence](https://img.shields.io/badge/SAP%20Data%20Intelligence-0FAAFF?logo=sap&logoColor=white)
+![SAP Leonardo](https://img.shields.io/badge/SAP%20Leonardo-0FAAFF?logo=sap&logoColor=white)
+![SAP Cloud Platform](https://img.shields.io/badge/SAP%20Cloud%20Platform-0FAAFF?logo=sap&logoColor=white)
+![SAP BW/4HANA](https://img.shields.io/badge/SAP%20BW%2F4HANA-0FAAFF?logo=sap&logoColor=white)
+![SAP SuccessFactors](https://img.shields.io/badge/SAP%20SuccessFactors-0FAAFF?logo=sap&logoColor=white)
+![SAP Ariba](https://img.shields.io/badge/SAP%20Ariba-0FAAFF?logo=sap&logoColor=white)
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Achievements
 
-### 🌌 **Nebula AI - Autonomous Space Mission Control**  
+### 🌌 **Winner of Nebula AI - Autonomous Space Mission Control**  
 **Overview:** AI-powered system optimizing satellite operations with real-time telemetry, anomaly detection, and resource allocation.  
 🌍 **Live Demo:** [Nebula AI](https://nebulaspace.netlify.app/)  
-
----
-
-### 🏥 **AIxOncoCare - AI for Cancer Care**  
-**Overview:** AI-driven oncology platform integrating radiomics, genomics, and conversational AI to enhance cancer treatment.  
-🌍 **Live Demo:** [AIxOncoCare](https://aixcancerbiohackathon.netlify.app/)  
-
----
 
 <p align="center">
   <img height="150" src="https://media3.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" />
